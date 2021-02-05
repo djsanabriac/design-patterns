@@ -1,5 +1,10 @@
 package co.djsanabriac.builder;
 
+import co.djsanabriac.builder.items.ChikenBurger;
+import co.djsanabriac.builder.items.Coke;
+import co.djsanabriac.builder.items.Pepsi;
+import co.djsanabriac.builder.items.VegBurger;
+
 public class MealBuilder {
 	
 	public Meal preapreVegMeal() {

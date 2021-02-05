@@ -1,4 +1,4 @@
-package co.djsanabriac.builder;
+package co.djsanabriac.builder.wrappers;
 
 import co.djsanabriac.builder.interfaces.Packing;
 

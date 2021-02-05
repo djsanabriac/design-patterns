@@ -1,7 +1,8 @@
-package co.djsanabriac.builder;
+package co.djsanabriac.builder.items;
 
 import co.djsanabriac.builder.interfaces.Item;
 import co.djsanabriac.builder.interfaces.Packing;
+import co.djsanabriac.builder.wrappers.Wrapper;
 
 public abstract class Burger implements Item{
 

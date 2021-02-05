@@ -1,4 +1,4 @@
-package co.djsanabriac.builder;
+package co.djsanabriac.builder.items;
 
 public class Coke extends ColdDrink{
 
